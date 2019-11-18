@@ -16,7 +16,12 @@ strong,
 span,
 p,
 a {
+	font-family: "Noto Serif JP", serif;
 	font-weight: normal;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+}
+
+.strong {
+	font-weight: bold;
 }
